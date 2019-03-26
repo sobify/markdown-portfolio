@@ -1,1 +1,1 @@
-![Image of jetpactocat](https://octodex.github.com/jetpactocat.png)
+![Image of jetpactocat](https://octodex.github.com/image/jetpactocat.png)
